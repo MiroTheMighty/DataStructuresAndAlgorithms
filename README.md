@@ -1,15 +1,22 @@
-# Strukture podataka i algoritmi
+# Data structures and algorithms
 
-OSS Split
+This repository contains examples of data structures and algortihams from my collage class.
 
-dr. sc. Toma Rončević
 
-Godina 2023./2024.
 
-| Algorithm | Complexity |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+
+## Sorting algorithams
+
+Here are the sorting algorithms learned and their complexity in big O notation.
+
+| Algorithm | Complexity (average)|
+| --------- | ---------- 
+| Quick sort | O(n*log(n)) |
+| Bubble sort | O(n^2) |
+| Selection sort | O(n^2) |
+| Merge sort | O(n*log(n)) |
+| Insertion sort | O(n^2) |
+| Heap sort | O(n*log(n)) |
 
 Nizovi, strukture, pokazivači, alociranje memorije, iteracija i rekurzija. 
 Analiza složenosti algoritama. 
@@ -18,5 +25,4 @@ Red i stog i njihove osnovne operacije.
 Stabla, binarna stabla pretrage i osnovne operacije. Hash tablice.
 Grafovi i osnovni algoritmi na grafovima: pretraga u dubinu i širinu, Dijkstrin algoritam. 
 Prioritetni redovi. 
-Algoritmi sortiranja: quicksort, bubblesort, selectionsort, mergesort.
 Min-max algoritam.
