@@ -6,6 +6,11 @@ dr. sc. Toma Rončević
 
 Godina 2023./2024.
 
+| Algorithm | Complexity |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 Nizovi, strukture, pokazivači, alociranje memorije, iteracija i rekurzija. 
 Analiza složenosti algoritama. 
 Jednostruko i dvostruko vezane liste.
